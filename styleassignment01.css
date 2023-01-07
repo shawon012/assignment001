@@ -1,0 +1,101 @@
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    border: 0px;
+    padding: 18px 35px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin-bottom: 20px;
+    padding-top: 200px;
+}
+
+.sub-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 20px;
+}
+
+
+h3, p{
+    text-align: right;
+    padding-right: 200px;
+}
+.btn-primary{
+    margin-left: 955px;
+}
+/* body section */
+.first-page{
+    display: flex;
+    padding: 130px 50px;
+}
+/* .picture{
+    margin-bottom: 190px;
+} */
+.failures{
+    font-weight: 200;
+font-size: 40px;
+color: #151414;
+padding-top: 200px;
+padding-left: 50px;
+}
+.description{
+    font-weight: 200;
+font-size: 16px;
+color: #444343;
+}
+.alltext{
+    padding-left: 20px;
+    text-align: right;
+}
+.options{
+    margin-top: 20px;
+}
+/* new section */
+/* .list{
+    display: flex;
+} */
+.plan{
+    text-align: center;
+    margin-bottom:100px;
+}
+.divs{
+    display: flex;
+    margin-bottom: 250px;
+}
+.web{
+    padding-left: 100px;
+}
+/* new section */
+.btn-2{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    background: #d6a37e;
+    border-radius: 5px;
+    border: 0px;
+    padding: 18px 35px;
+}
+.mindset{
+    margin: 50px 150px;
+    background-image: url(watch.png), url(gradient.png);
+}
+/* new section */
+.footer{
+    display: flex;
+    margin: 100px 150px;
+}
+.footera{
+    display: flex;
+}
